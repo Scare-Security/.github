@@ -10,15 +10,4 @@
 
 # Who are we 
 
-Scare security is a constantly evolving cyber security and exploit development team. Our members are very diverse in skill and come from various backgrounds such as game exploitation, binary explitation, reverse engineering, web exploitation. Our team also uses a wide vairety of programming languages which are 
-
-| Language | 
-| -------- | 
-| Zig | 
-| C | 
-| C++ | 
-| C# | 
-| Go | 
-| Crystal | 
-| Ruby | 
-| Perl | 
+Scare security is a constantly evolving cyber security and exploit development team. Our members are very diverse in skill and come from various backgrounds such as game exploitation, binary explitation, reverse engineering, web exploitation. Our team also uses a wide vairety of programming languages which ranges from compiled languages such as go, rust, c, c++, zig, Crystal and others to interpretted languages such as ruby, perl, python etc. 
