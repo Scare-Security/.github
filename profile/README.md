@@ -1,12 +1,24 @@
-## Hi there 👋
+```
 
-<!--
+ ______     ______     ______     ______     ______     ______     ______     ______     __  __     ______     __     ______   __  __    
+/\  ___\   /\  ___\   /\  __ \   /\  == \   /\  ___\   /\  ___\   /\  ___\   /\  ___\   /\ \/\ \   /\  == \   /\ \   /\__  _\ /\ \_\ \   
+\ \___  \  \ \ \____  \ \  __ \  \ \  __<   \ \  __\   \ \___  \  \ \  __\   \ \ \____  \ \ \_\ \  \ \  __<   \ \ \  \/_/\ \/ \ \____ \  
+ \/\_____\  \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_____\  \/\_____\  \ \_____\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_____/   \/_/\/_/   \/_/ /_/   \/_____/   \/_____/   \/_____/   \/_____/   \/_____/   \/_/ /_/   \/_/     \/_/   \/_____/ 
+                                                                                                                                         
+```
 
-**Here are some ideas to get you started:**
+# Who are we 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Scare security is a constantly evolving cyber security and exploit development team. Our members are very diverse in skill and come from various backgrounds such as game exploitation, binary explitation, reverse engineering, web exploitation. Our team also uses a wide vairety of programming languages which are 
+
+| Language | 
+| -------- | 
+| Zig | 
+| C | 
+| C++ | 
+| C# | 
+| Go | 
+| Crystal | 
+| Ruby | 
+| Perl | 
